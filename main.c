@@ -15,7 +15,8 @@ int main()
     int size2 = 4;
     int size3 = 5;
 
-//Print out array 1-3
+//Print out array 1 through 3
+//Call  on each  function through the printf
     printf("Array 1:\n");
     outputArray(array1, size1);
     printf("the average is: %.2f\n", average(array1, size1));
