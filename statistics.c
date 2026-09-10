@@ -12,7 +12,7 @@ double sum(double array[], int size)
     return total;
 }
 
-// Calculate average
+// Function to calculate average
 double average(double array[], int size)
 {
     return sum(array, size) / size;
