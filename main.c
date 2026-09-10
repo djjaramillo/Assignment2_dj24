@@ -1,3 +1,7 @@
+//David Jaramillo
+//Assignment #2
+
+
 //Header Files 
 #include <stdio.h>
 #include "statistics.h"
